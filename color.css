@@ -1,0 +1,12 @@
+.heading1{
+    color: yellow;
+    background-color: turquoise;
+    padding: 25px;
+    margin: 25px;
+}
+.heading2{
+    color: violet;
+    background-color: aqua;
+    padding: 30px;
+    margin: 30px;
+}

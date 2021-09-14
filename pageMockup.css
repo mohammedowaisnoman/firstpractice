@@ -1,0 +1,40 @@
+table{
+    width: 700px;
+    padding: 20px;
+    margin: auto;
+}
+th{
+    background-color: tomato;
+    padding: 20px;
+    font-weight: bolder;
+    border-radius: 20px;
+}
+td{
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+}
+tr:nth-child(even){
+    background-color: royalblue;
+    color: white;
+}
+h1{
+    text-align: center;
+
+}
+p{
+    background-color: wheat;
+
+}
+img{
+    float: right;
+    margin: 10px;
+    height: 300px;
+    width: 200px;
+    text-align: center;
+
+}
+.image1{
+    float:right ;
+
+}

@@ -1,0 +1,17 @@
+.detail-para{
+    background-color: skyblue;
+
+}
+.img-content{
+    height: 300px;
+    width: 300px;
+    float: right;
+    margin: 10px;
+
+
+}
+.para1{
+    text-align: justify;
+    padding: 10px;
+    text-align: 300px;
+}
